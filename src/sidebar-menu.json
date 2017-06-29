@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Dashboard",
+            "de": "DE_Dashboard"
+        },
+        "routerLink": "/dashboard",
+        "icon": "fa-dashboard"
+    },
+    {
+        "id": 1,
+        "name": {
+            "en": "Charts",
+            "de": "DE_Charts"
+        },
+        "routerLink": "/charts",
+        "icon": "fa-bar-chart-o"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Dashboard",
+            "de": "DE_Dashboard"
+        },
+        "routerLink": "/dashboard",
+        "icon": "fa-dashboard"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Charts",
+            "de": "DE_Charts"
+        },
+        "routerLink": "/charts",
+        "icon": "fa-bar-chart-o"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "KendoUI",
+            "de": "DE_KendoUI"
+        },
+        "routerLink": "/kendoui",
+        "icon": "fa-table"
+    }
+]

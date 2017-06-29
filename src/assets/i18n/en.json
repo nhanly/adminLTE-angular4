@@ -1,0 +1,20 @@
+{
+    "dashboard": "Dashboard",
+    "charts": "Charts",
+    "menu": "Menu",
+    "submenu": "Submenu",
+    "language": "Language",
+    "COMMON": {
+        "PAGE_TITLE": "AdminLTE for Angular 4",
+        "PROFILE": "Profile",
+        "LOGIN": "Login",
+        "ENGLISH": "English",
+        "DEUTSCH": "Deutsch"
+    },
+    "HEADER": {
+        "NOTIFICATION": {
+            "VIEW_ALL": "View all",
+            "PENDING_TASK": "Pending Tasks"
+        }
+    }
+}
